@@ -30,7 +30,7 @@
 		"jwt-decode": "^2.2.0",
 		"less": "^2.7.2",
 		"lz-string": "^1.4.4",
-		"moment": "~2.19.4",
+		"moment": "~2.24.0",
 		"ngstorage": "~0.3.0",
 		"open-iconic": "^1.1.1",
 		"q": "1.0.1",
