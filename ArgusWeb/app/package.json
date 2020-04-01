@@ -33,7 +33,7 @@
 		"moment": "~2.19.4",
 		"ngstorage": "~0.3.0",
 		"open-iconic": "^1.1.1",
-		"q": "1.0.1",
+		"q": "1.5.1",
 		"react": "^0.14.6",
 		"react-dom": "^0.14.6",
 		"screenfull": "^3.3.3",
